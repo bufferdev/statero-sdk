@@ -33,7 +33,7 @@ await track({
 
 ## Docs
 
-- Console: https://app.statero.app/dashboard/docs
+- Console: https://statero.app/dashboard/docs
 - API: https://api.statero.app
 - Source: https://github.com/bufferdev/statero-sdk
 

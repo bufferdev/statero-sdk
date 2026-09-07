@@ -1,6 +1,6 @@
 {
   "name": "@statero/sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Statero SDK — track AI costs for your SaaS",
   "main": "src/index.js",
   "type": "module",
