@@ -1,0 +1,29 @@
+{
+  "name": "@statero/sdk",
+  "version": "0.1.0",
+  "description": "Statero SDK — track AI costs for your SaaS",
+  "main": "src/index.js",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": ["src", "README.md"],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["statero", "ai", "costs", "tracking", "openai", "tokens"],
+  "author": "Statero <support@statero.app>",
+  "license": "MIT",
+  "homepage": "https://statero.app",
+  "bugs": {
+    "url": "mailto:support@statero.app"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/statero/statero-sdk",
+    "directory": "node"
+  }
+}

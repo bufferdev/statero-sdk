@@ -1,0 +1,31 @@
+{
+  "name": "@statero/consent",
+  "version": "0.1.1",
+  "description": "React Native consent UI + audit trail for Apple 5.1.2(i)",
+  "main": "src/index.js",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.js",
+    "./react": "./src/react.js"
+  },
+  "files": ["src", "README.md"],
+  "peerDependencies": {
+    "react": ">=18",
+    "react-native": ">=0.72"
+  },
+  "keywords": ["statero", "consent", "apple", "react-native", "gdpr"],
+  "author": "Statero <support@statero.app>",
+  "license": "MIT",
+  "homepage": "https://statero.app",
+  "bugs": {
+    "url": "mailto:support@statero.app"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/statero/statero-sdk",
+    "directory": "consent"
+  }
+}
