@@ -35,6 +35,7 @@ await track({
 
 - Console: https://app.statero.app/dashboard/docs
 - API: https://api.statero.app
+- Source: https://github.com/bufferdev/statero-sdk
 
 ## Publish (maintainers)
 

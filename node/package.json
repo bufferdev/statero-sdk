@@ -1,6 +1,6 @@
 {
   "name": "@statero/sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Statero SDK — track AI costs for your SaaS",
   "main": "src/index.js",
   "type": "module",
@@ -16,7 +16,7 @@
   "license": "MIT",
   "homepage": "https://statero.app",
   "bugs": {
-    "url": "mailto:support@statero.app"
+    "url": "https://github.com/bufferdev/statero-sdk/issues"
   },
   "publishConfig": {
     "access": "public"
