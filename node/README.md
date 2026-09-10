@@ -2,6 +2,16 @@
 
 Track AI usage and costs with Statero.
 
+## Before you install
+
+1. [Sign up](https://statero.app/sign-up) → create an app → copy `apm_...`
+2. Add to `.npmrc`:
+
+```
+@statero:registry=https://api.statero.app/npm/
+//api.statero.app/npm/:_authToken=apm_your_key
+```
+
 ```bash
 npm install @statero/sdk
 ```

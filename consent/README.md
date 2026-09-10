@@ -2,7 +2,15 @@
 
 React Native consent SDK for Apple App Store guideline 5.1.2(i).
 
-## Install
+## Before you install
+
+1. [Sign up](https://statero.app/sign-up) → create an app → copy `apm_...`
+2. Add to `.npmrc`:
+
+```
+@statero:registry=https://api.statero.app/npm/
+//api.statero.app/npm/:_authToken=apm_your_key
+```
 
 ```bash
 npm install @statero/consent
